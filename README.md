@@ -1,6 +1,4 @@
-# Exercícios das aulas de Server Side do 3º Semestre do Curso de Engenharia de Software na Universidade Católica de Santa Catarina
+<h1>Exercícios das aulas de Server Side do 3º Semestre do Curso de Engenharia de Software na Universidade Católica de Santa Catarina</h1>
 
-Conteúdo da aula de Programação Server Side do terceiro semestre de Engenharia de Software na Católica de Santa Catarina
-
-## Tecnologia utilizada:
-Pycharm
+<h2>Utilizados:</h2>
+<p>Python, Pycharm, HTML5, CSS3, Flask, SQLAlchemy</p>
